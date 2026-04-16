@@ -93,6 +93,17 @@ Mininet effectively simulates real network environments and allows measurement o
 
 ---
 
+## Screenshots
+
+### Connectivity Test
+![Ping Test](pingall.png)
+
+### Bandwidth Test - Topology 1
+![Iperf Topology 1](iperf1.png)
+
+### Bandwidth Test - Topology 2
+![Iperf Topology 2](iperf2.png)
+
 ## Project Structure
 
 ```
